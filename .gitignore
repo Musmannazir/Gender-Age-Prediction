@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Model artifacts and metrics
+*.pth
+metrics.txt
+training_curves.png
+
+# Dataset and generated uploads
+project/FairFace/
+project/uploads/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
